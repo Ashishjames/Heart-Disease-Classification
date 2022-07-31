@@ -52,4 +52,16 @@ A data dictionary describes the data you're dealing with.In particular, the Clev
 
 
 
+![1](https://user-images.githubusercontent.com/101040910/182018121-f2f6c19f-76b4-4a01-b727-36aad0334b5a.JPG)
 
+![2](https://user-images.githubusercontent.com/101040910/182018124-f5a81fd0-07c3-49f4-aed0-024ed06386ef.JPG)
+
+![3](https://user-images.githubusercontent.com/101040910/182018130-b378df1f-6dd2-406e-b833-35ec3f2e886f.JPG)
+
+![4](https://user-images.githubusercontent.com/101040910/182018133-3d50be9c-f71f-4321-b242-ef614bbde1c8.JPG)
+
+![5](https://user-images.githubusercontent.com/101040910/182018140-130f3a9b-e0f4-4aa8-958f-1428a43f454f.JPG)
+
+![6](https://user-images.githubusercontent.com/101040910/182018141-ede219c7-1426-4845-a748-2eed4e930884.JPG)
+
+![7](https://user-images.githubusercontent.com/101040910/182018144-39f84e9b-8a7e-40da-b68b-c9c53a084113.JPG)
